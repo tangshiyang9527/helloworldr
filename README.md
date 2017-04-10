@@ -1,2 +1,6 @@
 # helloworldr
-ewrwre
+
+int main(){
+
+printf("")
+}
